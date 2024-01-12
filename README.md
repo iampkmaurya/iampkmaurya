@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<i>I am a skilled front-end developer with a background in the information technology and services industry. My expertise lies in React Js, Redux Js, JavaScript, HTML, Cascading Style Sheets (CSS).</i>
+I am a skilled front-end developer with a background in the information technology and services industry. My expertise lies in React Js, Redux Js, JavaScript, HTML, Cascading Style Sheets (CSS).
 
 <!--
 **iampkmaurya/iampkmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
