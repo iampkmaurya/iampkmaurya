@@ -1,6 +1,6 @@
-###👋 Hi, I'm Prashant Maurya
+**👋 Hi, I'm Prashant Maurya
 
-🚀 Full Stack Developer | Frontend Specialist | Backend Enthusiast
+**🚀 Full Stack Developer | Frontend Specialist | Backend Enthusiast
 
 I’m a passionate developer with 5+ years of experience in frontend development and 2+ years in backend development, building scalable, user-friendly, and high-performance web applications.
 
