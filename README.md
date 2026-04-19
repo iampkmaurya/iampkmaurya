@@ -1,15 +1,19 @@
-**👋 Hi, I'm Prashant Maurya
+# 👋 Hi, I'm Prashant Maurya
 
-**🚀 Full Stack Developer | Frontend Specialist | Backend Enthusiast
+🚀 Full Stack Developer | Frontend Specialist | Backend Developer  
 
-I’m a passionate developer with 5+ years of experience in frontend development and 2+ years in backend development, building scalable, user-friendly, and high-performance web applications.
+I am a passionate Full Stack Developer with **5+ years of experience in Frontend development** and **2+ years in Backend development**. I specialize in building scalable, high-performance, and user-friendly web applications.
 
-💼 About Me
-💻 Strong expertise in modern frontend technologies
-⚙️ Backend experience with API design & system integration
-🧠 Problem solver with focus on clean architecture
-📈 Experience working in Agile teams & leading projects
-🎯 Currently exploring advanced system design & performance optimization
+---
+
+## 💼 About Me
+
+- 💻 5+ years of experience in Frontend (React ecosystem)
+- ⚙️ 2+ years of experience in Backend development
+- 🧠 Strong problem-solving and debugging skills
+- 👨‍💼 Experience leading teams and working in Agile environments
+- 🏥 Worked on healthcare domain applications (enterprise level)
+- 📈 Focused on clean code, performance, and scalability
 
 <!--
 **iampkmaurya/iampkmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
