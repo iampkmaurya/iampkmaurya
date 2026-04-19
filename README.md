@@ -1,5 +1,15 @@
-### Hi there 👋 
-I am a skilled front-end developer with a background in the information technology and services industry. My expertise lies in React Js, Redux Js, JavaScript, HTML, Cascading Style Sheets (CSS).
+###👋 Hi, I'm Prashant Maurya
+
+🚀 Full Stack Developer | Frontend Specialist | Backend Enthusiast
+
+I’m a passionate developer with 5+ years of experience in frontend development and 2+ years in backend development, building scalable, user-friendly, and high-performance web applications.
+
+💼 About Me
+💻 Strong expertise in modern frontend technologies
+⚙️ Backend experience with API design & system integration
+🧠 Problem solver with focus on clean architecture
+📈 Experience working in Agile teams & leading projects
+🎯 Currently exploring advanced system design & performance optimization
 
 <!--
 **iampkmaurya/iampkmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
